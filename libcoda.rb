@@ -1,5 +1,5 @@
 
-class LibCoda < Formula
+class Libcoda < Formula
   homepage 'https://github.com/ryjen/libcoda'
 
   desc 'a utility library'
